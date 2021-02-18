@@ -16,3 +16,5 @@ AllowedValues.contains("up") # returns False
 ```
 
 Define your class attributes with ALL CAPS only. Non CAP attributes will be ignored.
+
+I created this for my own usage after tripping over using the built in Enum class many, many times..
